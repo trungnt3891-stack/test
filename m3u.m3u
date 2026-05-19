@@ -31,7 +31,7 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv9.png" , VTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
-#https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_4200000.m3u8
+https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_4200000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv5tnb.png", VTV5 HD - Tây Nam Bộ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
@@ -277,7 +277,7 @@ https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:-1 tvg-id="tayninhtv" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/tayninh.png", TN HD | TH Tây Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
-#https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="angiang1" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/angiang1.png", ATV1 HD | TH An Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -376,7 +376,7 @@ https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hue" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/thuathienhue.png", HueTV | TH Thừa Thiên Huế
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.
 https://live.trt.com.vn/TRT-Online/playlist.m3u8
-#https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/khanhhoa.png", KTV HD | TH Khánh Hòa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -407,7 +407,7 @@ https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hanoi2.png", HanoiTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
-#https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist.m3u8
+https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist.m3u8
 #https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bacninh" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/bacninh.png", BTN HD | TH Bắc Ninh
@@ -445,7 +445,7 @@ https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
 #https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
-#https://live.fptplay53.net/fnxsd1/thaibinh_hls.smil/chunklist.m3u8
+https://live.fptplay53.net/fnxsd1/thaibinh_hls.smil/chunklist.m3u8
 #https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/playlist.m3u8
 #https://1d6415a734b5b32.cmccloud.com.vn/ThaibinhTV/thaibinhtv1.m3u8
 
